@@ -30,7 +30,7 @@ terraform init
 terraform destroy
 Confirm by typing yes.
 
-##Contents
+## Contents
 This repository includes the following files:
 
 main.tf: The main configuration file where you define your AWS resources.
@@ -40,10 +40,10 @@ terraform.tfvars: Set your variable values here to avoid prompts during terrafor
 README.md: This file providing an overview of the repository.
 Feel free to modify, extend, or remove any files based on your requirements.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this project, fork the repository, make your changes, and submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
 
 Note: For detailed explanations and insights into specific resource configurations, refer to the comments and documentation within the individual Terraform configuration files.
